@@ -15,5 +15,4 @@ Este repositório privado contém meus estudos, scripts e resoluções para a pr
 - Estudo de Buffer Overflow
 - Checklists e modelos de relatório OSCP
 
-> Repositório privado e 100% autoral.  
- 
+> Repositório privado e 100% autoral.
