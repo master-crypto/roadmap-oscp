@@ -1,3 +1,7 @@
+<img width="487" height="421" alt="image" src="https://github.com/user-attachments/assets/dbcd5021-4f39-49d3-8b32-4516d48631c8" />
+
+
+
 # OSCP Roadmap 2025 🧠💥
 
 Este repositório privado contém meus estudos, scripts e resoluções para a preparação da certificação **OSCP (Offensive Security Certified Professional)**.
